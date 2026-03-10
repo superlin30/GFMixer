@@ -1,4 +1,4 @@
-# GFMixer: Decoupled Temporal Gradient and Fourier-Aware Attention for Time Series Forecasting
+# GFMixer: Decoupled Temporal Gradient and Fourier-Aware Attention for Time Series Forecasting (coming soon)
 
 <div align="center">
 
