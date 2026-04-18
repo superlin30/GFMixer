@@ -12,9 +12,6 @@
 <div align="center">
 
 
-
-*GFMixer Framework Architecture*
-
 </div>
 
 ## 📖 Overview
@@ -106,6 +103,9 @@ numpages = {11},
 location = {United Arab Emirates},
 series = {WWW '26}
 }
+
+
+
 
 ## 📩 Contact
 If you have any questions, please contact [1230202j1001@smail.swufe.edu.cn](1230202j1001@smail.swufe.edu.cn), [superlin3030@gmail.com](superlin3030@gmail.com) or submit an issue.
