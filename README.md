@@ -1,4 +1,4 @@
-# [WWW 2026 Accepted] GFMixer: Decoupled Temporal Gradient and Fourier-Aware Attention for Time Series Forecasting (coming soon)
+# [WWW 2026 Accepted] GFMixer: Decoupled Temporal Gradient and Fourier-Aware Attention for Time Series Forecasting
 
 <div align="center">
 
@@ -68,7 +68,7 @@ GFMixer/
 All scripts are located in `./scripts`. For instance, to train a model using the ETTh1 dataset with an input length of 96, simply run:
 
 ```shell
-bash ./scripts/ETTh1.sh
+bash ./scripts/GFMixer/ETTh1.sh
 ```
 
 After training:
@@ -82,6 +82,9 @@ Special thanks to the following repositories for their invaluable code and datas
 
 - [PatchTST](https://github.com/yuqinie98/PatchTST)
 - [Time-Series-Library](https://github.com/thuml/Time-Series-Library)
+- [Times2D](https://arxiv.org/abs/2504.00118)
+- [RoPE](https://arxiv.org/abs/2104.09864)
+- [PDF](https://github.com/Hank0626/PDF)    
 
 ## 📩 Contact
 If you have any questions, please contact [1230202j1001@smail.swufe.edu.cn](1230202j1001@smail.swufe.edu.cn), [superlin3030@gmail.com](superlin3030@gmail.com) or submit an issue.
