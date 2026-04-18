@@ -4,6 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.2.2+-green.svg)](https://pytorch.org/)
+[![Paper](https://img.shields.io/badge/Paper-ACM_DL-b31b1b.svg)](https://dl.acm.org/doi/10.1145/3774904.3792345)
 
 </div>
 
@@ -84,7 +85,24 @@ Special thanks to the following repositories for their invaluable code and datas
 - [Time-Series-Library](https://github.com/thuml/Time-Series-Library)
 - [Times2D](https://arxiv.org/abs/2504.00118)
 - [RoPE](https://arxiv.org/abs/2104.09864)
-- [PDF](https://github.com/Hank0626/PDF)    
+- [PDF](https://github.com/Hank0626/PDF)
+
+## 📚 Citation
+If you find this repo useful, please consider citing our paper as follows:
+
+@inproceedings{Lin2026GFMixer,
+author = {Zhang, Lin and Li, Qing and Zhao, Jingmei},
+title = {GFMixer: Decoupled Temporal Gradient and Fourier-Aware Attention for Time Series Forecasting},
+year = {2026},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+doi = {10.1145/3774904.3792345},
+booktitle = {Proceedings of the ACM Web Conference 2026},
+pages = {7156–7166},
+numpages = {11},
+location = {United Arab Emirates},
+series = {WWW '26}
+}
 
 ## 📩 Contact
 If you have any questions, please contact [1230202j1001@smail.swufe.edu.cn](1230202j1001@smail.swufe.edu.cn), [superlin3030@gmail.com](superlin3030@gmail.com) or submit an issue.
