@@ -64,7 +64,7 @@ GFMixer/
 
 ## ⚙️ Training
 
-All scripts are located in `./scripts`. For instance, to train a model using the ETTh1 dataset with an input length of 96, simply run:
+All scripts are located in `./scripts`. For instance, to train a model using the ETTh1 dataset, simply run:
 
 ```shell
 bash ./scripts/GFMixer/ETTh1.sh
