@@ -1,0 +1,11 @@
+torch==1.11.0
+einops
+scikit-learn
+numpy
+scipy
+pandas
+matplotlib
+tqdm
+jupyter==1.0.0
+ipython==8.5.0
+
