@@ -2,9 +2,10 @@
 
 <div align="center">
 
+[![Paper](https://img.shields.io/badge/Paper-ACM_DL-b31b1b.svg)](https://dl.acm.org/doi/10.1145/3774904.3792345)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.2.2+-green.svg)](https://pytorch.org/)
-[![Paper](https://img.shields.io/badge/Paper-ACM_DL-b31b1b.svg)](https://dl.acm.org/doi/10.1145/3774904.3792345)
+
 
 </div>
 
@@ -88,11 +89,13 @@ Special thanks to the following repositories for their invaluable code and datas
 - [PDF](https://github.com/Hank0626/PDF)
 
 ## 📚 Citation
+
 If you find this repo useful, please consider citing our paper as follows:
 
-@inproceedings{Lin2026GFMixer,
+```bibtex
+@inproceedings{Lin2026GRAFT,
 author = {Zhang, Lin and Li, Qing and Zhao, Jingmei},
-title = {GFMixer: Decoupled Temporal Gradient and Fourier-Aware Attention for Time Series Forecasting},
+title = {GRAFT: Grounded Retrieval Augmentation for Time Series Forecasting},
 year = {2026},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
