@@ -90,9 +90,9 @@ Special thanks to the following repositories for their invaluable code and datas
 If you find this repo useful, please consider citing our paper as follows:
 
 ```bibtex
-@inproceedings{Lin2026GRAFT,
+@inproceedings{Lin2026GFMixer,
 author = {Zhang, Lin and Li, Qing and Zhao, Jingmei},
-title = {GRAFT: Grounded Retrieval Augmentation for Time Series Forecasting},
+title = {GFMixer: Decoupled Temporal Gradient and Fourier-Aware Attention for Time Series Forecasting},
 year = {2026},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
