@@ -1,6 +1,4 @@
-# [WWW 2026] GFMixer: Decoupled Temporal Gradient and Fourier-Aware Attention for Time Series Forecasting
-
-> **📄 Open-access paper:** [Download PDF directly](https://dl.acm.org/doi/epdf/10.1145/3774904.3792345) · [ACM Digital Library](https://dl.acm.org/doi/10.1145/3774904.3792345)
+# [WWW 2026] GFMixer: Decoupled Temporal Gradient and Fourier-Aware Attention for Time Series Forecasting [Download PDF](https://dl.acm.org/doi/epdf/10.1145/3774904.3792345)
 
 <div align="center">
 
