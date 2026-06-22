@@ -1,12 +1,11 @@
-# [WWW 2026] GFMixer: Decoupled Temporal Gradient and Fourier-Aware Attention for Time Series Forecasting [PDF](https://dl.acm.org/doi/epdf/10.1145/3774904.3792345)
+# [WWW 2026] GFMixer: Decoupled Temporal Gradient and Fourier-Aware Attention for Time Series Forecasting [(PDF)](https://dl.acm.org/doi/epdf/10.1145/3774904.3792345)
 
 
 <div align="center">
 
-![ACM Open Access](https://dl.acm.org/doi/10.1145/3774904.3792345)
-![Python](https://www.python.org/)
-![PyTorch](https://pytorch.org/)
-
+[![ACM Open Access](https://img.shields.io/badge/ACM-Digital_Library-0085CA?style=for-the-badge)](https://dl.acm.org/doi/10.1145/3774904.3792345)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.2.2+-green.svg)](https://pytorch.org/)
 
 </div>
 
