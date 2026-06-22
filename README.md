@@ -1,22 +1,23 @@
-# [WWW 2026] GFMixer: Decoupled Temporal Gradient and Fourier-Aware Attention for Time Series Forecasting [Download PDF](https://dl.acm.org/doi/epdf/10.1145/3774904.3792345)
+# [WWW 2026] GFMixer: Decoupled Temporal Gradient and Fourier-Aware Attention for Time Series Forecasting [PDF](https://dl.acm.org/doi/epdf/10.1145/3774904.3792345)
+
 
 <div align="center">
 
-[![Download Paper](https://img.shields.io/badge/Download_Paper-PDF-b31b1b?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://dl.acm.org/doi/epdf/10.1145/3774904.3792345)
-[![ACM DL](https://img.shields.io/badge/ACM-Digital_Library-0085CA?style=for-the-badge)](https://dl.acm.org/doi/10.1145/3774904.3792345)
-[![DOI](https://img.shields.io/badge/DOI-10.1145%2F3774904.3792345-blue?style=for-the-badge)](https://doi.org/10.1145/3774904.3792345)
+![ACM Open Access](https://dl.acm.org/doi/10.1145/3774904.3792345)
+![Python](https://www.python.org/)
+![PyTorch](https://pytorch.org/)
 
-<br>
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.2.2+-green.svg)](https://pytorch.org/)
+</div>
+
+<div align="center">
+
 
 </div>
 
 ## 📖 Overview
 
 GFMixer is a dual-path decoupled framework for long-term multivariate time series forecasting and tackles two structural issues in frequency-domain modeling: frequency bias and spectral degradation.
-
 ## 🚀 Quick Start
 
 ### Environment Setup
