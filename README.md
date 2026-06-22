@@ -3,9 +3,10 @@
 
 <div align="center">
 
-[![ACM Open Access](https://img.shields.io/badge/ACM-Digital_Library-0085CA?style=for-the-badge)](https://dl.acm.org/doi/10.1145/3774904.3792345)
+[![ACM Open Access](https://img.shields.io/badge/Paper-ACM_DL-b31b1b.svg)](https://dl.acm.org/doi/10.1145/3774904.3792345)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.2.2+-green.svg)](https://pytorch.org/)
+
 
 </div>
 
